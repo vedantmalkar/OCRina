@@ -1,4 +1,4 @@
-## ✨ 🅞🅒🅡ina 
+## 🅞🅒🅡ina 
 ###  Hand-Tracked Drawing → OCR → ESP8266 → BCD Hardware Adder
 
 
